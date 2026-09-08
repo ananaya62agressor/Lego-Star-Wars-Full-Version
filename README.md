@@ -239,3 +239,6 @@ This repository serves as the official landing page for LEGO Star Wars. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of LEGO Star Wars today!**
+
+---
+**Last updated:** 2026-09-08 12:03:55 UTC
